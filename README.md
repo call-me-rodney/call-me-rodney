@@ -14,6 +14,7 @@
 - Fullstack Software Developer
 - Embedded Systems Engineer
 - Amatuer Astronomer
+- Author
 
 ### LANGUAGES
 - Javascript (intermediate)
