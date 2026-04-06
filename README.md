@@ -1,43 +1,36 @@
-# GREETINGS...
-  I am Kawuma Rodney, a Ugandan born male with a strong ambition for creating, designing and learning anything that excites my imagination. With just a few years of programming experience, I am actively seeking opportunities to learn and master powerful tools to enable me create whatever I desire.
+### My Name is Kawuma Rodney,
+I am a Ugandan born software developer, computer science student, and amateur astronomer. I love solving problems, learning new things, and the opportunity to create things of relevance and beauty. Looking forward to acheiving career milestones for the many years ahead of me.
 
 ### BIO
 - Name: Kawuma Rodney
 - Residency: Kampala, Uganda
 - Gender: Male
 - email: kwmrodney@gmail.com
-- Place of Work: Octech
-- Occupation: Student / Customer Support Technician
-- School: Makerere University
+- Institution: Makerere University
+- Occupation: Student / Customer Support Technician (Octech-contract)
 
 ### ASPIRATIONS
 - Fullstack Software Developer
-- Embedded Systems Engineer
+- Robotics Engineer
 - Amatuer Astronomer
-- Author
 
 ### LANGUAGES
-- Javascript (intermediate)
-- Python (intermediate)
-- C/C++ (beginner)
+- Javascript
+- Python
+- C/C++
 
 ### TECHNOLOGIES
 **Backend**
-- Django (Intermediate)
-- Express (Intermediate)
-- Nestjs (beginner)
+- Django 
+- Express 
+- Nestjs
 
 **Frontend**
-- React (Intermediate)
-- Flutter (beginner)
-- Web 2.0 (Confident)
-  
-**Database & Cloud Environments**
-- Postgres & mySQL 
-- Google Cloud Platform
-- Heroku
+- React
+- Flutter
+- HTML/CSS
 
-*If you have any opportunities for me or feel like working with me, you can reach out to me via my email (above), or my other socials.*
+For more technical information, don't be shy to reach out to me on any of the following platforms 
 - [LinkedIn](www.linkedin.com/in/kawuma-rodney-p3k)
 - [Instagram](https://www.instagram.com/_khybre_/)
 
